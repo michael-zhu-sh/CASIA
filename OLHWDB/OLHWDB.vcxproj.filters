@@ -26,7 +26,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="HWDB1.cpp">
+    <ClCompile Include="OLHWDB1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
