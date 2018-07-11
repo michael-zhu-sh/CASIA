@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HWDB", "HWDB\HWDB.vcxproj", "{1506C6D5-E18E-4A42-8B42-FABE6C0FC63F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HWDB1", "HWDB\HWDB.vcxproj", "{1506C6D5-E18E-4A42-8B42-FABE6C0FC63F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OLHWDB", "OLHWDB\OLHWDB.vcxproj", "{EFA1D540-80D9-42E1-A4AE-C6055C003E4C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OLHWDB1", "OLHWDB\OLHWDB.vcxproj", "{EFA1D540-80D9-42E1-A4AE-C6055C003E4C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task1", "Task1\Task1.vcxproj", "{5DAF577E-BD02-4773-8E46-EF0CD09BDE9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{EFA1D540-80D9-42E1-A4AE-C6055C003E4C}.Release|x64.Build.0 = Release|x64
 		{EFA1D540-80D9-42E1-A4AE-C6055C003E4C}.Release|x86.ActiveCfg = Release|Win32
 		{EFA1D540-80D9-42E1-A4AE-C6055C003E4C}.Release|x86.Build.0 = Release|Win32
+		{5DAF577E-BD02-4773-8E46-EF0CD09BDE9A}.Debug|x64.ActiveCfg = Debug|x64
+		{5DAF577E-BD02-4773-8E46-EF0CD09BDE9A}.Debug|x64.Build.0 = Debug|x64
+		{5DAF577E-BD02-4773-8E46-EF0CD09BDE9A}.Debug|x86.ActiveCfg = Debug|Win32
+		{5DAF577E-BD02-4773-8E46-EF0CD09BDE9A}.Debug|x86.Build.0 = Debug|Win32
+		{5DAF577E-BD02-4773-8E46-EF0CD09BDE9A}.Release|x64.ActiveCfg = Release|x64
+		{5DAF577E-BD02-4773-8E46-EF0CD09BDE9A}.Release|x64.Build.0 = Release|x64
+		{5DAF577E-BD02-4773-8E46-EF0CD09BDE9A}.Release|x86.ActiveCfg = Release|Win32
+		{5DAF577E-BD02-4773-8E46-EF0CD09BDE9A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
